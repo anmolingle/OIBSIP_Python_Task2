@@ -41,7 +41,7 @@ The repository should contain the following files:
 ````
 
 /Advanced-BMI-Tracker
-├── BMI\_Calculator.py  \# The main application script
+├── BMI_Calculator.py  \# The main application script
 ├── README.md          \# Project information (This file)
 └── requirements.txt   \# List of dependencies
 
