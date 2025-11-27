@@ -21,8 +21,8 @@ You must have Python 3.x installed on your system.
 If you haven't yet, clone your repository and navigate into the project directory:
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/anmolingle/OIBSIP_Python_Task2.git
+cd OIBSIP_Python_Task2
 ````
 
 ### 3\. Install Dependencies
@@ -48,7 +48,7 @@ python BMI_Calculator.py
 ## 🛠️ Project Structure
 
 ```
-/Advanced-BMI-Tracker
+OIBSIP_Python_Task2/
 ├── BMI_Calculator.py  # Main application logic and Tkinter UI
 ├── requirements.txt   # List of required Python packages (Matplotlib)
 └── README.md          # Project documentation (this file)
@@ -58,5 +58,3 @@ python BMI_Calculator.py
 
 Contributions, issues, and feature requests are welcome\! Feel free to open an issue or submit a pull request.
 
-```
-```
