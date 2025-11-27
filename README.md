@@ -40,7 +40,7 @@ The repository should contain the following files:
 
 ````
 
-/Advanced-BMI-Tracker
+OIBSIP_Python_Task2/
 ├── BMI_Calculator.py  \# The main application script
 ├── README.md          \# Project information (This file)
 └── requirements.txt   \# List of dependencies
