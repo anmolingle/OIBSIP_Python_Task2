@@ -18,7 +18,7 @@ Before running the application, ensure you have Python 3 installed. You will als
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/anmolingle/OIBSIP_Python_Task2
+    git clone https://github.com/anmolingle/OIBSIP_Python_Task2.git
     cd OIBSIP_Python_Task2
     ```
 
